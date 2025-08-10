@@ -21,7 +21,7 @@
 - 🔭 I’m currently working on **BKST**
 - 🌱 I’m currently learning **Go, Next.js**
 - 💬 Ask me about **Day Trading, Gungi**
-- 📫 How to reach me: **TyronoOdame5@gmail.com**
+- 📫 How to reach me: **Tyronodame5@gmail.com**
 
 ---
 
