@@ -19,7 +19,7 @@
 
 ## 🔥 What's New?
 
-- 🎯 I'm currently working on **CS:OPN**
+- 🎯 I'm currently working on **CS:OPN**, **Portfolio Site**
 - 🌱 I'm currently learning **Go**, **Next.js**
 - 💬 Ask me about **Day Trading**, **Gungi**
 - 📫 How to reach me: **Tyronodame5@gmail.com**
