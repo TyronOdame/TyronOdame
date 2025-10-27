@@ -12,7 +12,7 @@
 ## 👨‍💻 About Me
 
 - 🚀 I'm a full-stack developer with a passion for creating beautiful and functional user experiences
-- 💻 Currently working with React, Python, Node.js and TypeScript
+- 💻 Currently working with React, Python, Node.js, TypeScript, Go, and Next.js
 - 🤖 Learning about AI integration with applications
 - ☕ I'm happy to chat about tech, open-source, or coffee!
 - 🏗️ Portfolio: 🚧 Under Construction 🚧
